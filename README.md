@@ -57,23 +57,7 @@ Dynamically fetches and displays public repos from
 https://github.com/vidhantkiller15
 
 ---
-
-## How to run
-
-This is a static single-file HTML page. No build step required.
-
-1. Open `RACER-X_Blacklist-3.html` in any modern browser.
-2. Or serve it locally:
-
-```bash
-# Python
-python -m http.server 8000
-
-# Node
-npx serve .
-```
-
-Then visit `http://localhost:8000`.
+##Note
 
 > The “My projects” tab requires an internet connection to reach the GitHub API.
 
@@ -96,4 +80,5 @@ Then visit `http://localhost:8000`.
 
 ---
 
-*Stay at the top of the Blacklist.*
+*Stay notorious.*
+-FUGITVE a.k.a RACER-X
