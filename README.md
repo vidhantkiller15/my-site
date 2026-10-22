@@ -81,4 +81,4 @@ https://github.com/vidhantkiller15
 ---
 
 *Stay notorious.*
--FUGITVE a.k.a RACER-X
+-FUGITVE
